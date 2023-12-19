@@ -1,0 +1,9 @@
+.navlinkItem{
+    /* color: red; */
+}
+
+.navlinkItem:hover{
+    color: #5e35b1;
+    display: inline-block;
+    border-radius: 5px;
+}
